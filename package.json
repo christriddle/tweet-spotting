@@ -1,0 +1,35 @@
+{
+  "name": "tweet-spotting",
+  "version": "0.0.0",
+  "description": "Gets retweets from restaurants timeline ",
+  "main": "app.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/christriddle/tweet-spotting.git"
+  },
+  "keywords": [
+    "twitter",
+    "restaurants",
+    "tweet",
+    "spotting"
+  ],
+  "author": "Chris Riddle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christriddle/tweet-spotting/issues"
+  },
+  "homepage": "https://github.com/christriddle/tweet-spotting",
+  "dependencies": {
+    "twitter": "^0.2.13"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "forever-monitor": "^1.5.1",
+    "grunt-cli": "^0.1.13",
+    "matchdep": "^0.3.0"
+  }
+}
