@@ -23,7 +23,12 @@
   },
   "homepage": "https://github.com/christriddle/tweet-spotting",
   "dependencies": {
-    "twitter": "^0.2.13"
+    "twitter": "^0.2.13",
+    "twit": "^1.1.18",
+    "underscore": "^1.7.0",
+    "hapi": "^7.5.0",
+    "good": "^4.0.0",
+    "good-console": "^2.0.0"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
